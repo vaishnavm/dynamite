@@ -23,7 +23,7 @@ function Footer() {
           <Col md={4} className="text-center text-md-end">
             <div className="text-light small">
               <p className="mb-1"><strong>Phone:</strong> 042 62 4499 / 056 55 66881</p>
-              <p className="mb-0"><strong>Email:</strong> <span className="text-yellow">dynam8uae@gmail.com</span></p>
+              <p className="mb-0"><strong>Email:</strong> <span className="text-yellow">conatct@dynamite.com</span></p>
             </div>
           </Col>
         </Row>

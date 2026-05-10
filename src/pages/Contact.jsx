@@ -41,7 +41,7 @@ function Contact() {
                 </div>
                 <div>
                   <h5 className="text-light mb-1">Email Address</h5>
-                  <p className="text-muted mb-0">dynam8uae@gmail.com</p>
+                  <p className="text-muted mb-0">conatct@dynamite.com</p>
                 </div>
               </div>
             </div>
